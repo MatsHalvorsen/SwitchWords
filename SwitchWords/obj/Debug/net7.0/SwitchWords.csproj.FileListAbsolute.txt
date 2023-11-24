@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/bin/Debug/net7.0/SwitchWords
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/bin/Debug/net7.0/SwitchWords.deps.json
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/bin/Debug/net7.0/SwitchWords.runtimeconfig.json
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/bin/Debug/net7.0/SwitchWords.dll
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/bin/Debug/net7.0/SwitchWords.pdb
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/SwitchWords.csproj.AssemblyReference.cache
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/SwitchWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/SwitchWords.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/SwitchWords.AssemblyInfo.cs
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/SwitchWords.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/SwitchWords.dll
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/refint/SwitchWords.dll
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/SwitchWords.pdb
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/SwitchWords.genruntimeconfig.cache
+/Users/halvorsen/Documents/GetAcademy /emne3/SwitchWords/SwitchWords/obj/Debug/net7.0/ref/SwitchWords.dll
